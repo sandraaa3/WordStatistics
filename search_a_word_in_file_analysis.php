@@ -459,7 +459,7 @@
 				}
 
 				if($flag_font == True){
-					echo "<script> alert('Enter a word in the standard font!');
+					echo "<script> alert('Enter a word in the standard encoding!');
 					window.location ='search_a_word_in_file.php'; </script>";
 					exit();
 				}
@@ -496,7 +496,7 @@
 						}
 						
 						if($flag_font1 == True){
-							echo "<script> alert('Upload a file in the standard font!');
+							echo "<script> alert('Upload a file in the standard encoding!');
 								window.location ='search_a_word_in_file.php'; </script>";
 						}
 					}

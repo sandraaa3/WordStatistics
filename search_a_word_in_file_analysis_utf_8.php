@@ -465,7 +465,7 @@
 						}
 
 						if ($flag_font == True) {
-							echo "<script> alert('Enter a word in the special font!');
+							echo "<script> alert('Enter a word in the special encoding!');
 										window.location ='search_a_word_in_file.php'; </script>";
 						} else {
 							echo "<center><h3>The <b>word</b> will be searching for in the file is: " . "<strong><u>" . $word . "</u></strong></h3></center><br><br>";
@@ -496,7 +496,7 @@
 							}
 							
 							if ($flag_font1 == True) {
-								echo "<script> alert('Upload a file in the special font!');
+								echo "<script> alert('Upload a file in the special encoding!');
 										window.location ='search_a_word_in_file.php'; </script>";
 							}
 						}

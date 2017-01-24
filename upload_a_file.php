@@ -42,7 +42,7 @@
 				var val = $('#uploadFile').val(); 
 				if(val=='') 
 				{ 
-					alert("Error input file with standard font!"); 
+					alert("Error input file with standard encoding!"); 
 				} 
 				else{
 					showLoading();
@@ -70,7 +70,7 @@
 				var val = $('#uploadFileUTF8').val(); 
 				if(val=='') 
 				{ 
-					alert("Error input file with specific font!"); 
+					alert("Error input file with specific encoding!"); 
 				} 
 				else{
 					showLoading();
@@ -149,7 +149,7 @@
 					 <h2>
 						<span data-toggle="tooltip" title="Example: English, Roman alphabet">
 							<img src="img/info-green.png" id="info_blue" width="25px;;" style="margin-top:-10px;"> 
-						</span> STANDARD &nbsp;FONT</h2></div>
+						</span> STANDARD &nbsp;ENCODING</h2></div>
 				</div>
 			</div>
 			
@@ -168,7 +168,7 @@
 					<h2>
 						<span data-toggle="tooltip" title="Example: macedonian, lithuanian, french,...">
 							<img src="img/info.png" id="info_blue" width="24px;" style="margin-top:-10px;">
-						</span> SPECIAL &nbsp;FONT</h2></div>
+						</span> SPECIAL &nbsp;ENCODING</h2></div>
 				</div><br><br>
 			</div>
 			<br>

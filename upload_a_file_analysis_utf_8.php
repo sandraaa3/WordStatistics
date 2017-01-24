@@ -463,7 +463,7 @@
 						}
 						
 						if ($flag_font1 == True) {
-							echo "<script> alert('Upload a file in the special font!');
+							echo "<script> alert('Upload a file in the special encoding!');
 																	window.location ='upload_a_file.php'; </script>";
 						}
 					}

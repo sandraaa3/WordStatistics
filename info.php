@@ -192,34 +192,34 @@
 						<i>Word appears at the end of the sentence</i> displays the number of times the inserted word appears at the end of a sentence.
 						</p>
 					  </div>
-					  <h3>Additional info: <b><i>Standard font</i></b></h3>
+					  <h3>Additional info: <b><i>Standard encoding</i></b></h3>
 					  <div>
 						<p>
-							Under the term <i>standard font</i> is defined the classical Latin alphabet. For instance, any file that is written in English falls under this category.
+							Under the term <i>standard encoding</i> is defined the classical Latin alphabet. For instance, any file that is written in English falls under this category.
 						</p>
 					  </div>
-					  <h3>Additional info: <b><i>Specific font</i></b></h3>
+					  <h3>Additional info: <b><i>Specific encoding</i></b></h3>
 					  <div>
 						<p>
-							Under the term <i>specific font</i> are defined alphabets different from the Lation alphabet. For instance, any file that is written in Macedonian, Spanish, Serbian, Bulgarian, German and many others, falls under this category.
+							Under the term <i>specific encoding</i> are defined alphabets different from the Lation alphabet. For instance, any file that is written in Macedonian, Spanish, Serbian, Bulgarian, German and many others, falls under this category.
 						</p>
 					  </div>
 					   <h3>Functionality No. 1: <b><i>Upload a file</i></b></h3>
 					  <div>
 						<p>
-							This functionality provides 2 options: uploading a file that is written in a standard font or uploading a file that is written in a specific font. After the file is uploaded, a table of statistical information about the file's data is displayed.
+							This functionality provides 2 options: uploading a file that is written in a standard encoding or uploading a file that is written in a specific encoding. After the file is uploaded, a table of statistical information about the file's data is displayed.
 						</p>
 					  </div>
 					  <h3>Functionality No. 2: <b><i>Compare two files</i></b></h3>
 					  <div>
 						<p>
-							This functionality provides 2 options, comparing statistical data from 2 files that are written both either in a standard or in a specific font. 
+							This functionality provides 2 options, comparing statistical data from 2 files that are written both either in a standard or in a specific encoding. 
 						</p>
 					  </div>
 					  <h3>Functionality No. 3: <b><i>Search a word in a file</i></b></h3>
 					  <div>
 						<p>
-							This functionality provides 2 options that allow searching a word and displaying data about it regarding it's presence in the uploaded file. The word and the uploaded file can written either in a standard or in a specific font.
+							This functionality provides 2 options that allow searching a word and displaying data about it regarding it's presence in the uploaded file. The word and the uploaded file can written either in a standard or in a specific encoding.
 						</p>
 					  </div>
 					   <h3>About us <b><i></i></b></h3>

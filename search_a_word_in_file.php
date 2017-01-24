@@ -159,7 +159,7 @@
 								  <span data-toggle="tooltip" title="Example: English, Roman alphabet">
 									<img src="img/info_yellow.png" width="25px;;" style="margin-top:-10px;"> 
 								</span>
-								  Choose file with standard font:</b></h3></label>
+								  Choose file with standard encoding:</b></h3></label>
 								  <br><br>
 								  <input type="file" name="file" id="file"/>
 								  <br />
@@ -184,7 +184,7 @@
 								  <span data-toggle="tooltip" title="Example: macedonian, lithuanian, french,...">
 									<img src="img/info_red.png" id="info_blue" width="24px;" style="margin-top:-10px;">
 								</span>
-								  Choose file with special font:</b></h3></label>
+								  Choose file with special encoding:</b></h3></label>
 								  <br><br>
 								  <input type="file" name="file" id="file2"/>
 								  <br />

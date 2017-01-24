@@ -49,7 +49,7 @@
 		 }
 
 		 $(function () {
-			 showText("#Lorem", "Word Statistics is a web sollution that displays diverse information about the textual data from an uploaded file. It contains three functionality options where files can be analyzed in a standard or a specific font.", 0, 50);
+			 showText("#Lorem", "Word Statistics is a web sollution that displays diverse information about the textual data from an uploaded file. It contains three functionality options where files can be analyzed in a standard or a specific encoding.", 0, 50);
 		 });		
 	</script>
 </head>

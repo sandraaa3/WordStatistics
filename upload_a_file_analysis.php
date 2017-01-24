@@ -497,7 +497,7 @@
 											}
 											
 											if($flag_font1 == True){
-												echo "<script> alert('Upload a file in the standard font!');
+												echo "<script> alert('Upload a file in the standard encoding!');
 													window.location ='upload_a_file.php'; </script>";
 											}
 										}
